@@ -1,0 +1,38 @@
+.App {
+  text-align: center;
+}
+
+#applicationName{
+  width: fit-content;
+  margin-bottom: 25px;
+}
+
+#holder{
+  height: 70vh;
+  background-color: #072239;
+  color: white;
+  width: 100%;
+}
+
+#signInButtons{
+  height: 200px;
+  margin-top: 100px;
+  width: 500px;
+  border-radius: 30%;
+}
+
+
+.p{
+  color: white;
+}
+
+h1{
+  font-weight: 100;
+}
+
+#welcomeText{
+  font-weight: 100;
+  color: white;
+  padding-top: 150px;
+}
+

@@ -1,0 +1,40 @@
+#phoneNumbers{
+    margin-top: 50px;
+    width: 500px;
+    color: white;
+}
+
+#deleteAcct{
+    margin: 20px;
+}
+
+#numberInput{
+    margin-top: 10px;
+    width: 75px;
+}
+
+#addNumber{
+    margin-top: 20px;
+    margin-left: 30px;
+}
+
+#deleteNumber{
+    width:100px;    
+    margin-left: 100px;
+}
+
+#roommateNumber{
+    width: 100px;
+    color: white;
+}
+
+#roommateName{
+    color: white;
+}
+
+#welcomePersonal{
+    padding-top: 50px;
+    color:white;
+    font-weight: 100;
+
+}

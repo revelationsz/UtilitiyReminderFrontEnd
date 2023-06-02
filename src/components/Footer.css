@@ -1,0 +1,35 @@
+
+#footer{
+    width: 100%;
+    border-top: 2px #27486a solid;
+    /* position: fixed;
+    bottom: 0; */
+    height: 12vh;
+    background-color:#0e1127;
+    color: white;
+    padding-top:10px;
+}
+
+
+#privlink{
+   border: none;
+   background-color: none;
+   width: fit-content;
+   height: fit-content;  
+   color: white;  
+}
+  
+#privlink:hover{
+  background-color: rgb(231 231 231);
+  border-radius: 15px;
+  border: 1px black solid
+}
+  
+
+#NonSTickfooter{
+    width: 100%;
+    border-top: 2px #27486a solid;
+    height: 12vh;
+    background-color:#0e1127;
+    color: white;
+}

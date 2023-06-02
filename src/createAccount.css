@@ -1,0 +1,72 @@
+#RoommateInput{
+    width: fit-content;
+    margin-bottom: 50px;
+}
+
+#buttonC{
+    margin: 5px;
+    border-radius: 30%;
+    width: 30px;
+}
+
+#confirm{
+    margin-top: 10px;
+    width: 400px;
+}
+
+#link, #saveInfo{
+    max-width: 120px;
+}
+
+#nameInput{
+    margin-right: 20px;
+    height: 37px;
+    font-size: 1rem;
+    margin-top: 24px;
+    border: 1px solid #ced4da;
+    border-radius: 0.375rem;
+    padding: 0.375rem 0.75rem;
+    width: fit-content;
+}
+
+#roommateName::before{
+    content: "Name: "
+}
+
+#roommateNumber::before{
+    content: "Number: "
+}
+
+#userInputText{
+    margin: 40px;
+}
+
+#roommateNumber, #roommateName{
+    width: fit-content;
+    margin-right: 20px;
+    margin-left: 20px;
+    margin-bottom: 0px;
+}
+
+#userInformation{
+    margin-top:50px;
+}
+
+#roommateInfo{
+    border: 3px solid #27486a;
+    border-radius: 0.375rem;
+    padding: 10px;
+}   
+
+#body{
+    padding-top: 100px;
+    min-height: 70vh;
+    height: fit-content;
+    background-color: #072239;
+    color: white;
+    padding-bottom: 10px;
+}
+
+#addUserNumber{
+    margin-top: 20px;
+}
